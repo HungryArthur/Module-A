@@ -1,0 +1,1 @@
+*/5 * * * * cd /home/arthur/Desktop/module_A && /home/arthur/Desktop/module_A/venv/bin/python /home/arthur/Desktop/module_A/agent.py >> /home/arthur/Desktop/module_A/cron.log 2>&1
